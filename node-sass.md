@@ -18,3 +18,6 @@ registry=https://registry.npm.taobao.org
 
 
 npm cache clean --force
+
+
+* [nrm](https://cnodejs.org/topic/5326e78c434e04172c006826)
